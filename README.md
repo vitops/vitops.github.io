@@ -1,2 +1,0 @@
-# vitops.github.io
-Hello

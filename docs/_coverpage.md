@@ -2,8 +2,8 @@
 
 ![logo](./images/ipam-logo.png ':size=45%')
 
-# IPAM <small>1.0.0</small>
+# VITOPS <small>1.0.0</small>
 > Azure IP Address Management Made Easy
 
-[GitHub](https://github.com/Azure/ipam)
+[GitHub](https://github.com/vitops/vitops.github.io)
 [Get Started](/README.md)
